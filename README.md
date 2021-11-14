@@ -1,1 +1,1 @@
-# EutrophicationMLModel
+# Eutrophication-ML-Model
