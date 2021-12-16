@@ -1,5 +1,6 @@
-pandas
-numpy
-sklearn
-jupyter
 anvil-uplink
+jupyter
+numpy
+pandas
+seaborn
+sklearn
